@@ -61,3 +61,4 @@ while true; do
     *) continue;;
   esac
 done
+# Bash script marker
