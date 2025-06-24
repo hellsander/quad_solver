@@ -23,3 +23,4 @@ check:
 
 clean:
 	rm -rf src/*.o build
+# Makefile patch
